@@ -1,26 +1,8 @@
 ### Hi Developers! I am Sagar S Bhat👋
 
-Software Developer focused on Systems Programming and AI Engineering, with strong interest in understanding how software works beneath the surface — from algorithms and operating systems to scalable intelligent systems
-
-🚀 About Me
-💻 Automation Developer working on software integration and testing workflows
-🧠 Building strong foundations in Data Structures & Algorithms
-⚙️ Interested in Operating Systems, Linux Internals, and System Design
-🤖 Exploring Artificial Intelligence and applied machine learning systems
-🔍 Passionate about writing reliable, efficient, and maintainable software
-
-🛠️ Tech Stack
-C++
-Python
-Shell Scripting
-Linux
-Git
-Bash
-Software Integration & Automation
-Data Structures & Algorithms
-Operating Systems
-Computer Networks
-AI Systems
-
+Software Developer with a strong interest in Systems Programming and AI Engineering.  
+I enjoy understanding how software works at a fundamental level, from algorithms and operating systems to system design and intelligent applications.
+My experience includes software development, integration, automation, and testing in Linux environments. I primarily work with C++, Python, and shell scripting to build reliable and maintainable solutions.
+Currently focused on strengthening core computer science fundamentals, solving data structure and algorithm problems regularly, and building projects that combine systems thinking with applied AI.
 
 
