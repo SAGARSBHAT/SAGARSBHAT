@@ -1,3 +1,26 @@
 ### Hi Developers! I am Sagar S Bhat👋
 
-I am  Studing In Dayananda Sagar College Of Engineering.Currently I am persuing my Engineering in Electronics and Telecommunication Domain and My Line of Interest is Web Development,IoT and Android Development.I have worked as A Web developer Intern at EDUREKA and IITRIS ANALYTICS and Android Developer at AgrieZone where I have been exposed to various kind of design and development techniques.I have sound knowledge in HTML, CSS, JavaScript, Java, C Programming, C++ Programming,Python Programming, Arduino Programming. I have also published Research paper In International Conference(IC RTEETIMP-2020) and have won Best Paper Award for my Research Paper named "IMPLEMENTATION OF INTILLEGENT FARMING SYSTEM USING IoT".I have also secured Five Star Rating in Python and Problem Solving at HackerRank. 
+Software Developer focused on Systems Programming and AI Engineering, with strong interest in understanding how software works beneath the surface — from algorithms and operating systems to scalable intelligent systems
+
+🚀 About Me
+💻 Automation Developer working on software integration and testing workflows
+🧠 Building strong foundations in Data Structures & Algorithms
+⚙️ Interested in Operating Systems, Linux Internals, and System Design
+🤖 Exploring Artificial Intelligence and applied machine learning systems
+🔍 Passionate about writing reliable, efficient, and maintainable software
+
+🛠️ Tech Stack
+C++
+Python
+Shell Scripting
+Linux
+Git
+Bash
+Software Integration & Automation
+Data Structures & Algorithms
+Operating Systems
+Computer Networks
+AI Systems
+
+
+
